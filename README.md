@@ -22,9 +22,6 @@ Before you begin, ensure you have the following:
    ```bash
    git clone https://github.com/yourusername/k8s-proj.git
    cd k8s-proj
-2. Apply the folling commands
-   
-''' bash
 
 kubectl apply -f mongo-configmap.yaml
 kubectl apply -f mongo-express.yaml
