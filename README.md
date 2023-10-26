@@ -23,10 +23,10 @@ Before you begin, ensure you have the following:
    git clone https://github.com/yourusername/k8s-proj.git
    cd k8s-proj
 
-kubectl apply -f mongo-configmap.yaml
-kubectl apply -f mongo-express.yaml
-kubectl apply -f mongo.yaml
-kubectl apply -f mongodb-secret.yaml
+   kubectl apply -f mongo-configmap.yaml
+   kubectl apply -f mongo-express.yaml
+   kubectl apply -f mongo.yaml
+   kubectl apply -f mongodb-secret.yaml
 
-kubectl get pods
-kubectl get services
+   kubectl get pods
+   kubectl get services
