@@ -1,4 +1,4 @@
-# Kubernetes Project
+# Kubernetes Simple Reference
 
 This repository contains Kubernetes configuration files for a project involving MongoDB and a web application using MongoDB. The project includes the following files:
 
